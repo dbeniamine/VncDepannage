@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Depannage Vnc
+Exec=xterm -e ~/scripts/VncDepannage/depannage-client.sh
+Icon=help
+Type=Application
+Categories=GTK;GNOME;System;
+GenericName[en_GB]=Depannage
